@@ -1,3 +1,3 @@
-public class Java6 {
+public class Test6_fromGitHub{
 
 }
